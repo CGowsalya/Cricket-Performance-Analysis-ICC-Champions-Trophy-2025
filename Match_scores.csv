@@ -1,0 +1,16 @@
+Match_ID,Round_Number,Match_Date,Location,Home_Team,Away_Team,Group_Name,Result,Player_of_the_Match,Tournament_Phase,home_score,away_score
+1,1,2025-02-19,"National Stadium, Karachi",Pakistan,"New Zealand","Group A","New Zealand","Kane Williamson(NZ)","Group Stage",320,260
+2,1,2025-02-20,"Dubai International Stadium, Dubai",Bangladesh,India,"Group A",India,"Shubman Gill (IN)","Group Stage",229,228
+3,1,2025-02-21,"National Stadium, Karachi",Afghanistan,"South Africa","Group B","South Africa","Ryan Rickelton (SA)","Group Stage",319,212
+4,1,2025-02-22,"Gaddafi Stadium, Lahore",Australia,England,"Group B",Australia,"Steve Smith (AU)","Group Stage",351,352
+5,2,2025-02-23,"Dubai International Stadium, Dubai",Pakistan,India,"Group A",India,"Virat Kohli(IN)","Group Stage",235,236
+6,2,2025-02-24,"Rawalpindi Cricket Stadium, Rawalpindi",Bangladesh,"New Zealand","Group A","New Zealand","Trent Boult (NZ)","Group Stage",236,240
+7,2,2025-02-25,"Rawalpindi Cricket Stadium, Rawalpindi",Australia,"South Africa","Group B","No Result","Not awarded","Group Stage","No Result","No Result"
+8,2,2025-02-26,"Gaddafi Stadium, Lahore",Afghanistan,England,"Group B",Afghanistan,"Ibrahim Zadran (AF)","Group Stage",325,317
+9,3,2025-02-27,"Rawalpindi Cricket Stadium, Rawalpindi",Pakistan,Bangladesh,"Group A","No Result","Not awarded.","Group Stage","No Result","No Result"
+10,3,2025-02-28,"Gaddafi Stadium, Lahore",Afghanistan,Australia,"Group B","No Result","Not awarded.","Group Stage",273,109
+11,3,2025-03-01,"National Stadium, Karachi","South Africa",England,"Group B","South Africa","Kagiso Rabada (SA)","Group Stage",179,181
+12,3,2025-03-02,"Dubai International Stadium, Dubai","New Zealand",India,"Group A",India,"Rohit Sharma (IN)","Group Stage",205,249
+13,"Semi Finals",2025-03-04,"Dubai International Stadium, Dubai",India,Australia,,India,"Jasprit Bumrah (IN)",Knockout,286,285
+14,"Semi Finals",2025-03-05,"Gaddafi Stadium, Lahore","South Africa","New Zealand",,"New Zealand","Rachin Ravindra (NZ)",Knockout,362,312
+15,Final,2025-03-09,"Dubai International Stadium, Dubai",India,"New Zealand",,India,,,251,254

@@ -1,0 +1,123 @@
+Player,Player_ID,Country,Role,Batting Style,Bowling Style
+Will Young,P001,New Zealand,Batsman,Right-hand Bat,None
+Devon Conway,P002,New Zealand,Batsman,Left-hand Bat,None
+Kane Williamson,P003,New Zealand,Batsman,Right-hand Bat,None
+Daryl Mitchell,P004,New Zealand,Batsman,Right-hand Bat,None
+Tom Latham,P005,New Zealand,Batsman,Left-hand Bat,None
+Glenn Phillips,P006,New Zealand,All-Rounder,Right-hand Bat,Right-arm off-spin
+Michael Bracewell,P007,New Zealand,All-Rounder,Left-hand Bat,Right-arm off-spin
+Tanzid Hasan,P008,Bangladesh,Batsman,Left-hand Bat,None
+Soumya Sarkar,P009,Bangladesh,Batsman,Left-hand Bat,None
+Najmul Hossain Shanto,P010,Bangladesh,Batsman,Left-hand Bat,None
+Mehidy Hasan Miraz,P011,Bangladesh,All-Rounder,Right-hand Bat,Right-arm off-spin
+Towhid Hridoy,P012,Bangladesh,Batsman,Right-hand Bat,None
+Mushfiqur Rahim,P013,Bangladesh,Batsman,Right-hand Bat,None
+Jaker Ali,P014,Bangladesh,Batsman,Right-hand Bat,None
+Rishad Hossain,P015,Bangladesh,All-Rounder,Right-hand Bat,Right-arm leg spin
+Tanzim Hasan Sakib,P016,Bangladesh,All-Rounder,Right-hand Bat,Right-arm fast-medium
+Taskin Ahmed,P017,Bangladesh,All-Rounder,Right-hand Bat,Right-arm fast
+Mustafizur Rahman,P018,Bangladesh,Batsman,Left-hand Bat,None
+Ryan Rickelton,P019,South Africa,Batsman,Left-hand Bat,None
+Tony de Zorzi,P020,South Africa,Batsman,Left-hand Bat,None
+Temba Bavuma,P021,South Africa,Batsman,Right-hand Bat,None
+Rassie van der Dussen,P022,South Africa,Batsman,Right-hand Bat,None
+Markram,P023,South Africa,All-Rounder,Right-hand Bat,Right-arm off-spin
+David Miller,P024,South Africa,Batsman,Left-hand Bat,None
+Marco Jansen,P025,South Africa,All-Rounder,Left-hand Bat,Left-arm fast-medium
+Mulder,P026,South Africa,All-Rounder,Right-hand Bat,Right-arm medium
+Philip Salt,P027,England,Batsman,Right-hand Bat,None
+Ben Duckett,P028,England,Batsman,Left-hand Bat,None
+Jamie Smith,P029,England,Batsman,Right-hand Bat,None
+Root,P030,England,All-Rounder,Right-hand Bat,Right-arm off-spin
+Harry Brook,P031,England,Batsman,Right-hand Bat,None
+Jos Buttler,P032,England,Batsman,Right-hand Bat,None
+Livingstone,P033,England,All-Rounder,Right-hand Bat,Right-arm off-spin / leg-spin
+Brydon Carse,P034,England,All-Rounder,Right-hand Bat,Right-arm fast-medium
+Jofra Archer,P035,England,All-Rounder,Right-hand Bat,Right-arm fast
+Adil Rashid,P036,England,All-Rounder,Right-hand Bat,Right-arm leg spin
+Imam-ul-Haq,P037,Pakistan,Batsman,Left-hand Bat,None
+Babar Azam,P038,Pakistan,Batsman,Right-hand Bat,None
+Saud Shakeel,P039,Pakistan,Batsman,Left-hand Bat,None
+Mohammad Rizwan,P040,Pakistan,Batsman,Right-hand Bat,None
+Salman Agha,P041,Pakistan,All-Rounder,Right-hand Bat,Right-arm off-spin
+Tayyab Tahir,P042,Pakistan,Batsman,Right-hand Bat,None
+Khushdil,P043,Pakistan,All-Rounder,Left-hand Bat,Left-arm orthodox spin
+Shaheen Afridi,P044,Pakistan,All-Rounder,Left-hand Bat,Left-arm fast
+Naseem Shah,P045,Pakistan,All-Rounder,Right-hand Bat,Right-arm fast
+Haris Rauf,P046,Pakistan,All-Rounder,Right-hand Bat,Right-arm fast
+Abrar Ahmed,P047,Pakistan,All-Rounder,Right-hand Bat,Right-arm leg spin
+Mahmudullah,P048,Bangladesh,Batsman,Right-hand Bat,None
+Nahid Rana,P049,Bangladesh,All-Rounder,Right-hand Bat,Right-arm medium
+Rahmanullah Gurbaz,P050,Afghanistan,Batsman,Right-hand Bat,None
+Ibrahim Zadran,P051,Afghanistan,Batsman,Right-hand Bat,None
+Sediqullah Atal,P052,Afghanistan,Batsman,Left-hand Bat,None
+Rahmat Shah,P053,Afghanistan,Batsman,Right-hand Bat,None
+Rohit Sharma,P054,Afghanistan,Batsman,Right-hand Bat,None
+Azmatullah,P055,Afghanistan,All-Rounder,Right-hand Bat,Right-arm fast-medium
+Nabi,P056,Afghanistan,All-Rounder,Right-hand Bat,Right-arm off-spin
+Gulbadin,P057,Afghanistan,All-Rounder,Right-hand Bat,Right-arm medium
+Rashid Khan,P058,Afghanistan,All-Rounder,Right-hand Bat,Right-arm leg spin
+Noor Ahmad,P059,Afghanistan,All-Rounder,Left-hand Bat,Left-arm wrist spin
+Fazalhaq Farooqi,P060,Afghanistan,All-Rounder,Right-hand Bat,Left-arm fast-medium
+Jamie Overton,P061,England,All-Rounder,Right-hand Bat,Right-arm fast-medium
+Saqib Mahmood,P062,England,All-Rounder,Right-hand Bat,Right-arm fast
+Shubman Gill,P063,India,Batsman,Right-hand Bat,None
+Virat Kohli,P064,India,Batsman,Right-hand Bat,None
+Shreyas Iyer,P065,India,Batsman,Right-hand Bat,None
+KL Rahul,P066,India,Batsman,Right-hand Bat,None
+Axar,P067,India,All-Rounder,Left-hand Bat,Left-arm orthodox spin
+Travis Head,P068,India,Batsman,Left-hand Bat,None
+Hardik Pandya,P069,India,All-Rounder,Right-hand Bat,Right-arm fast-medium
+Ravindra Jadeja,P070,India,All-Rounder,Left-hand Bat,Left-arm orthodox spin
+Shami,P071,India,All-Rounder,Right-hand Bat,Right-arm fast-medium
+Kuldeep Yadav,P072,India,All-Rounder,Left-hand Bat,Left-arm wrist spin
+Steven Smith,P073,Australia,Batsman,Right-hand Bat,None
+Cooper Connolly,P074,Australia,All-Rounder,Left-hand Bat,Left-arm orthodox spin
+Josh Inglis,P075,Australia,Batsman,Right-hand Bat,None
+Labuschagne,P076,Australia,All-Rounder,Right-hand Bat,Right-arm leg spin
+Alex Carey,P077,Australia,Batsman,Left-hand Bat,None
+Tanveer Sangha,P078,Australia,Batsman,Right-hand Bat,None
+Maxwell,P079,Australia,All-Rounder,Right-hand Bat,Right-arm off-spin
+Dwarshuis,P080,Australia,All-Rounder,Left-hand Bat,Left-arm fast-medium
+Zampa,P081,Australia,All-Rounder,Right-hand Bat,Right-arm leg spin
+Nathan Ellis,P082,Australia,All-Rounder,Right-hand Bat,Right-arm fast-medium
+Fakhar Zaman,P083,Australia,Batsman,Left-hand Bat,None
+Rachin Ravindra,P084,New Zealand,All-Rounder,Left-hand Bat,Left-arm orthodox spin
+Santner (c),P085,New Zealand,All-Rounder,Left-hand Bat,Left-arm orthodox spin
+Nathan Smith,P086,New Zealand,All-Rounder,Right-hand Bat,Right-arm fast-medium
+Hashmatullah Shahidi,P087,Afghanistan,Batsman,Left-hand Bat,None
+Marnus Labuschagne,P088,Australia,Batsman,Right-hand Bat,None
+Khushdil Shah,P089,Pakistan,All-Rounder,Left-hand Bat,Left-arm orthodox spin
+Tristan Stubbs,P090,South Africa,Batsman,Right-hand Bat,None
+Heinrich Klaasen,P091,South Africa,Batsman,Right-hand Bat,None
+Axar Patel,P092,India,All-Rounder,Left-hand Bat,Left-arm orthodox spin
+Aiden Markram,P093,South Africa,Batsman,Right-hand Bat,None
+Azmatullah Omarzai,P097,Afghanistan,All-Rounder,Right-hand Bat,Right-arm fast-medium
+Mohammad Nabi,P098,Afghanistan,All-Rounder,Right-hand Bat,Right-arm off-spin
+Gulbadin Naib,P099,Afghanistan,All-Rounder,Right-hand Bat,Right-arm medium
+Matthew Short,P100,Australia,All-Rounder,Right-hand Bat,Right-arm off-spin
+Travis Head,P101,Australia,All-Rounder,Left-hand Bat,Right-arm off-spin
+Glenn Maxwell,P103,Australia,All-Rounder,Right-hand Bat,Right-arm off-spin
+Joe Root,P109,England,All-Rounder,Right-hand Bat,Right-arm off-spin
+Liam Livingstone,P110,England,All-Rounder,Right-hand Bat,Right-arm off-spin / leg-spin
+Mark Wood,P111,England,All-Rounder,Right-hand Bat,Right-arm fast
+Mitchell Santner (c),P116,New Zealand,All-Rounder,Left-hand Bat,Left-arm orthodox spin
+Matt Henry,P117,New Zealand,All-Rounder,Right-hand Bat,Right-arm fast-medium
+Kyle Jamieson,P118,New Zealand,All-Rounder,Right-hand Bat,Right-arm fast-medium
+William ORourke,P119,New Zealand,All-Rounder,Right-hand Bat,Right-arm fast-medium
+Wiaan Mulder,P122,South Africa,All-Rounder,Right-hand Bat,Right-arm medium
+Keshav Maharaj,P123,South Africa,All-Rounder,Right-hand Bat,Left-arm orthodox spin
+Kagiso Rabada,P124,South Africa,All-Rounder,Right-hand Bat,Right-arm fast
+Lungi Ngidi,P125,South Africa,All-Rounder,Right-hand Bat,Right-arm fast-medium
+Harshit Rana,P126,India,Bowler,None,Right-arm fast
+Spencer Johnson,P127,Australia,Bowler,None,Left-arm fast-medium
+Kyle Jamieson,P128,New Zealand,Bowler,None,Right-arm fast-medium
+Kagiso Rabada,P129,South Africa,Bowler,None,Right-arm fast
+Keshav Maharaj,P130,South Africa,Bowler,None,Left-arm orthodox spin
+Varun Chakravarthy,P131,India,Bowler,None,Right-arm leg spin
+Mustafizur Rahman,P132,India,Bowler,None,Left-arm fast-medium
+Najmul Hossain Shanto,P133,Bangladesh,Bowler,None,Right-arm off-spin (part-time)
+Mohammed Shami,P134,Bangladesh,Bowler,None,Right-arm fast-medium
+Ben Dwarshuis,P135,India,Bowler,None,Left-arm fast-medium
+Adam Zampa,P136,Australia,Bowler,None,Right-arm leg spin
+Tanveer Sangha,P137,Australia,Bowler,None,Right-arm leg spin

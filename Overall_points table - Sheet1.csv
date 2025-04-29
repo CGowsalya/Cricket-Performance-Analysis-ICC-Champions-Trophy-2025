@@ -1,0 +1,9 @@
+Unique_Country_ID,Group,Team_Name,Total_Matches,Win,Loss,No Result,Net Run Rate,Points
+t01,A,India,3,3,0,0, +0.715,6
+t02,A,New Zealand,3,2,1,0,0.267,4
+t03,A,Bangladesh,3,0,2,1,-0.443,1
+t04,A,Pakistan,3,0,2,1,-0.443,1
+t05,B,South Africa,3,2,0,1,2.395,5
+t06,B,Australia,3,3,0,2,0.475,4
+t07,B,England,3,1,1,1,-0.475,3
+t08,B,Afghanistan,3,0,3,0,-2.395,0
